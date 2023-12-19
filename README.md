@@ -1,2 +1,2 @@
 # Second-mind
-A program to help you to face with devices you cant work with
+A program to help you to face with the devices you cant work with
